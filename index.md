@@ -22,11 +22,11 @@
 | Biology: Mrs. Fries         | none                                                       |
 |                             |                                                            |
 |**Class: Thursday**          |**Assignment**                                              |
-| Geometry: Mr. Inman         | Lesson 9-5 notes due tommorow                              |
-| Concert Band: Mr. Bharttari | Movie                                                      |
-| English 9: Mrs. Bloomer     | Odysseus Anaylsis Essay Packet due tomorrow                |
-| Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review                                 |
-| Biology: Mrs. Fries         | Exam Today                                                 |
+| Geometry: Mr. Inman         | None                                                       |
+| Concert Band: Mr. Bharttari | None                                                       |
+| English 9: Mrs. Bloomer     | Odysseus Anaylsis Essay due monday                         |
+| Civics/Econ: Mr. Carlson    | Forigen Affair worksheet due tommorow and exam study guide |
+| Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
 |**Class: Friday**            |**Assignment**                                              |
 | Geometry: Mr. Inman         | Lesson 9-6 Notes and 9-5 worksheet due Jan 6 2020          |
